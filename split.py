@@ -3,6 +3,7 @@
 
 import csv
 import os
+import math
 
 import csvwrite
 
@@ -16,10 +17,11 @@ def split(src, body, head = 0, tail = 0):
 				csvwrite.csvwrite(fname + '_head.csv', row[0:head])
 
 			nbody = int( (len(row) - head - tail) / float(body) + 0.5 )
+			nzero = int( math.log10(nbody) ) + 1
 			for n in range(nbody):
 				c1 = body * n + head
 				c2 = min(c1 + body, len(row) - tail)
-				csvwrite.csvwrite(fname + '_' + str(n) + '.csv', row[c1:c2])
+				csvwrite.csvwrite(fname + '_' + str(n).zfill(nzero) + '.csv', row[c1:c2])
 
 			if tail > 0:
 				csvwrite.csvwrite(fname + '_tail.csv', row[-tail:])
