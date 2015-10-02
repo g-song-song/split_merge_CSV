@@ -1,0 +1,101 @@
+id,first_name,last_name,email,country,ip_address,credit_card,date,currency,boolean
+1,Marie,Bennett,mbennett0@scribd.com,France,38.99.170.225,3534805970706660,8/28/2015,Euro,false
+2,Thomas,Simmons,tsimmons1@spotify.com,Russia,62.27.180.107,3586123682747510,5/5/2015,Ruble,true
+3,Sharon,Holmes,sholmes2@odnoklassniki.ru,Portugal,202.132.167.6,201500623003932,1/9/2015,Euro,true
+4,Joan,Bell,jbell3@ehow.com,Portugal,246.182.155.224,3563942398301792,12/24/2014,Euro,false
+5,Patricia,Garrett,pgarrett4@yahoo.co.jp,Syria,224.184.220.233,670950924855685674,5/31/2015,Pound,true
+6,Lisa,Collins,lcollins5@reverbnation.com,Russia,207.229.237.215,6759157008932108391,3/28/2015,Ruble,true
+7,Sharon,Gilbert,sgilbert6@comsenz.com,China,18.29.73.254,6304521001515345179,11/25/2014,Yuan Renminbi,true
+8,Samuel,Mendoza,smendoza7@icio.us,Finland,48.234.141.198,4405753068406914,5/11/2015,Euro,true
+9,Jonathan,Freeman,jfreeman8@drupal.org,China,70.102.243.220,3576341125441721,11/8/2014,Yuan Renminbi,false
+10,Justin,Morris,jmorris9@salon.com,Portugal,48.118.112.95,3557701411968906,10/27/2014,Euro,true
+11,Adam,Harris,aharrisa@amazon.co.uk,China,5.64.237.145,3550116787898057,4/30/2015,Yuan Renminbi,true
+12,Sara,Chapman,schapmanb@google.es,Russia,122.8.85.250,5602249228601682,4/26/2015,Ruble,true
+13,Heather,Collins,hcollinsc@home.pl,Central African Republic,56.154.14.7,3558420109359109,4/27/2015,Franc,false
+14,Michelle,Wallace,mwallaced@marriott.com,Greece,113.124.119.68,3574686740438243,3/24/2015,Euro,false
+15,Antonio,Murphy,amurphye@hud.gov,Morocco,199.74.91.138,5265068831650094,12/28/2014,Dirham,true
+16,Paul,Morrison,pmorrisonf@arizona.edu,Portugal,57.236.156.70,5477528921081769,8/6/2015,Euro,false
+17,Albert,Campbell,acampbellg@netvibes.com,Myanmar,139.149.88.216,5100177156391843,4/26/2015,Kyat,true
+18,Kathleen,Gordon,kgordonh@meetup.com,Brazil,97.91.157.168,3575233010402473,11/19/2014,Real,true
+19,Lisa,Fowler,lfowleri@craigslist.org,Indonesia,27.228.38.164,675914844892300992,8/25/2015,Rupiah,false
+20,Brandon,Jones,bjonesj@newsvine.com,Ukraine,185.85.201.21,6391783651788627,6/22/2015,Hryvnia,true
+21,Irene,Lawrence,ilawrencek@microsoft.com,China,38.228.197.197,3553055345908494,7/12/2015,Yuan Renminbi,true
+22,Judy,Burke,jburkel@nsw.gov.au,China,219.233.131.177,3556905483207116,7/18/2015,Yuan Renminbi,false
+23,Scott,Willis,swillism@intel.com,Russia,35.222.119.102,3542529406746138,5/17/2015,Ruble,true
+24,Annie,Adams,aadamsn@alexa.com,Mauritius,38.11.75.133,3561815926128337,5/10/2015,Rupee,false
+25,Billy,Ellis,belliso@themeforest.net,China,118.9.57.57,6709968098395691839,2/6/2015,Yuan Renminbi,true
+26,Juan,Mills,jmillsp@jiathis.com,France,239.116.156.108,201979577204870,10/16/2014,Euro,true
+27,Alan,Stone,astoneq@irs.gov,Vietnam,53.149.172.170,3560792399392040,1/14/2015,Dong,false
+28,Timothy,Grant,tgrantr@chicagotribune.com,Syria,76.156.0.244,3578835131341757,11/14/2014,Pound,true
+29,Lisa,Parker,lparkers@usgs.gov,Azerbaijan,181.86.171.139,3532178465756794,7/10/2015,Manat,true
+30,Paula,Garza,pgarzat@miitbeian.gov.cn,Peru,78.130.193.157,3548294498974130,11/17/2014,Sol,false
+31,Scott,Peterson,spetersonu@discovery.com,Bulgaria,183.116.118.123,5602213783728819,12/1/2014,Lev,false
+32,Andrew,Myers,amyersv@berkeley.edu,Portugal,203.62.2.83,3564902500576367,7/21/2015,Euro,true
+33,Jeffrey,Henderson,jhendersonw@wikia.com,United States,217.24.194.213,4405426662908367,9/13/2015,Dollar,false
+34,Marilyn,Henry,mhenryx@w3.org,Russia,224.11.202.173,337941197104176,5/31/2015,Ruble,false
+35,Michael,Stone,mstoney@tinypic.com,Bangladesh,133.138.160.61,340072041194182,1/5/2015,Taka,false
+36,Russell,Hicks,rhicksz@google.cn,Kosovo,39.229.65.31,3570897667217783,11/2/2014,Euro,true
+37,Dorothy,James,djames10@geocities.com,China,226.99.9.49,63047367403118520,10/2/2014,Yuan Renminbi,true
+38,Nicholas,Dunn,ndunn11@github.io,China,107.78.39.67,675929526616402096,8/4/2015,Yuan Renminbi,false
+39,Douglas,Bradley,dbradley12@opensource.org,Indonesia,2.127.104.104,3543195806794299,7/24/2015,Rupiah,false
+40,Helen,Price,hprice13@pcworld.com,Botswana,239.159.173.241,3566349315479130,9/7/2015,Pula,false
+41,Joshua,Gibson,jgibson14@hubpages.com,China,37.154.39.112,4175006785577782,9/17/2015,Yuan Renminbi,true
+42,Alice,Chavez,achavez15@homestead.com,Moldova,102.138.105.99,5602215625871848,6/15/2015,Leu,true
+43,Sandra,Morgan,smorgan16@who.int,Sweden,235.197.143.34,3589455012526629,4/10/2015,Krona,true
+44,Samuel,Harrison,sharrison17@dagondesign.com,Tanzania,99.39.84.98,490546983217084616,1/28/2015,Shilling,true
+45,Frances,Franklin,ffranklin18@accuweather.com,China,2.205.184.57,3573421051684370,12/10/2014,Yuan Renminbi,false
+46,Thomas,Washington,twashington19@mtv.com,Russia,9.64.10.49,56022208393173658,2/22/2015,Ruble,true
+47,Andrea,Montgomery,amontgomery1a@simplemachines.org,Ukraine,74.249.91.153,201613647979761,12/29/2014,Hryvnia,false
+48,Deborah,Richards,drichards1b@feedburner.com,China,15.152.63.52,3566482983118381,3/15/2015,Yuan Renminbi,false
+49,Bonnie,Chavez,bchavez1c@yellowbook.com,Latvia,8.246.51.49,36320713294742,1/8/2015,Euro,false
+50,Jeremy,Morrison,jmorrison1d@harvard.edu,Uganda,27.129.213.16,3563762282921418,3/26/2015,Shilling,false
+51,Sharon,Williamson,swilliamson1e@mit.edu,Sweden,68.192.115.237,5497263223117063,3/11/2015,Krona,true
+52,Teresa,Fisher,tfisher1f@t.co,Brazil,40.130.74.57,3573056258860512,5/9/2015,Real,true
+53,Raymond,Ellis,rellis1g@forbes.com,Indonesia,178.142.137.140,201957355228857,7/22/2015,Rupiah,true
+54,Diane,Duncan,dduncan1h@flickr.com,China,11.247.24.94,5002352037485119,10/16/2014,Yuan Renminbi,true
+55,Richard,Martin,rmartin1i@spotify.com,France,133.68.66.163,4666396549507,2/25/2015,Euro,false
+56,Daniel,Stephens,dstephens1j@sogou.com,Greece,139.128.61.85,3585254304601677,1/6/2015,Euro,true
+57,Nancy,Matthews,nmatthews1k@comcast.net,Indonesia,54.227.67.221,67632370251318939,6/7/2015,Rupiah,false
+58,Pamela,Lynch,plynch1l@weather.com,Brazil,131.244.41.222,6399284804525182,3/11/2015,Real,true
+59,Walter,Ryan,wryan1m@sina.com.cn,Brazil,43.95.141.133,3565939947772737,1/3/2015,Real,false
+60,Carlos,Nguyen,cnguyen1n@census.gov,China,180.255.52.102,677161791294338367,2/15/2015,Yuan Renminbi,false
+61,Norma,Phillips,nphillips1o@dmoz.org,China,13.3.195.102,560224231395868312,6/10/2015,Yuan Renminbi,true
+62,Brandon,Martinez,bmartinez1p@live.com,China,79.99.150.171,3588785544113665,7/8/2015,Yuan Renminbi,false
+63,Mildred,Hughes,mhughes1q@fastcompany.com,Egypt,28.123.173.58,5602256105525397,6/16/2015,Pound,false
+64,Dorothy,Parker,dparker1r@goo.gl,South Korea,195.177.244.233,3571480093508262,3/1/2015,Won,true
+65,Kathryn,Garcia,kgarcia1s@w3.org,Sweden,71.155.28.214,5602222448277427,7/20/2015,Krona,true
+66,Albert,Bowman,abowman1t@tripadvisor.com,Poland,38.242.52.236,374622953765608,5/9/2015,Zloty,true
+67,Louise,Harper,lharper1u@canalblog.com,Indonesia,199.117.190.13,374622174310457,8/5/2015,Rupiah,true
+68,Frances,Jacobs,fjacobs1v@addthis.com,China,146.223.163.173,371187694892981,5/27/2015,Yuan Renminbi,true
+69,Clarence,Myers,cmyers1w@usatoday.com,China,20.159.10.72,3562630174233351,1/12/2015,Yuan Renminbi,false
+70,Betty,Clark,bclark1x@mozilla.org,Slovenia,171.45.245.234,3553604984467468,12/27/2014,Euro,true
+71,Heather,Harrison,hharrison1y@reference.com,China,181.45.77.68,5018765350618283,11/8/2014,Yuan Renminbi,false
+72,Matthew,Larson,mlarson1z@bing.com,Panama,69.124.91.137,3530230166897237,1/22/2015,Balboa,false
+73,Lois,Oliver,loliver20@nhs.uk,Brazil,85.255.47.22,3541753114607082,12/6/2014,Real,true
+74,Harold,Knight,hknight21@statcounter.com,Russia,204.212.174.86,201670411818740,5/20/2015,Ruble,false
+75,Lois,White,lwhite22@dyndns.org,Indonesia,225.119.133.177,30594275227219,2/3/2015,Rupiah,true
+76,Keith,Chavez,kchavez23@house.gov,Greece,227.82.154.59,6331104850514529,9/4/2015,Euro,false
+77,Stephen,Scott,sscott24@bloomberg.com,Peru,192.133.70.97,677138397436738454,11/11/2014,Sol,true
+78,Harry,Marshall,hmarshall25@nhs.uk,China,66.26.188.96,3530781413950153,1/6/2015,Yuan Renminbi,true
+79,Patrick,Thompson,pthompson26@arizona.edu,Greece,200.34.161.110,675924140621119631,9/12/2015,Euro,false
+80,Brian,Lee,blee27@tumblr.com,Myanmar,241.36.5.128,4703158473574,3/30/2015,Kyat,false
+81,Jesse,West,jwest28@paginegialle.it,China,169.108.89.233,5232346551389253,7/10/2015,Yuan Renminbi,true
+82,Kathryn,Oliver,koliver29@imageshack.us,South Korea,6.16.224.72,3543734852713322,3/9/2015,Won,true
+83,Doris,Bryant,dbryant2a@washington.edu,Peru,203.241.3.252,372301536497250,3/9/2015,Sol,false
+84,Jeffrey,Reyes,jreyes2b@artisteer.com,Russia,173.171.118.71,6386554977549432,12/3/2014,Ruble,true
+85,Sandra,Shaw,sshaw2c@scribd.com,China,156.175.94.44,30223250564467,10/18/2014,Yuan Renminbi,true
+86,Jacqueline,Long,jlong2d@live.com,China,175.7.54.199,3578183053804936,7/8/2015,Yuan Renminbi,true
+87,Eugene,Matthews,ematthews2e@dot.gov,Finland,231.183.86.229,3581835669787913,7/6/2015,Euro,false
+88,Roger,Ryan,rryan2f@arizona.edu,Poland,235.56.52.10,3582687381319627,12/18/2014,Zloty,true
+89,Brandon,Harvey,bharvey2g@drupal.org,Peru,63.129.228.252,3563261199664716,9/15/2015,Sol,false
+90,Rebecca,Ray,rray2h@google.com.hk,Spain,119.162.235.47,5557902668798864,9/4/2015,Euro,true
+91,Robin,Washington,rwashington2i@bing.com,China,193.96.56.36,3575415948630537,7/18/2015,Yuan Renminbi,false
+92,Craig,Payne,cpayne2j@weather.com,Indonesia,198.114.217.30,3561690102042010,4/18/2015,Rupiah,true
+93,Eugene,Kim,ekim2k@mozilla.org,South Korea,234.161.78.108,4913372613066159,4/5/2015,Won,true
+94,Lillian,Gray,lgray2l@msu.edu,China,35.178.132.167,3578017523119006,9/22/2015,Yuan Renminbi,false
+95,Steven,Nguyen,snguyen2m@geocities.jp,Portugal,0.233.20.85,346552301596469,7/22/2015,Euro,true
+96,Harry,Carroll,hcarroll2n@cargocollective.com,Ukraine,223.132.6.123,3558914179151792,6/19/2015,Hryvnia,false
+97,Brandon,Jordan,bjordan2o@godaddy.com,Yemen,220.126.249.106,3542473919444073,11/30/2014,Rial,true
+98,Daniel,Wood,dwood2p@yahoo.com,China,78.52.145.247,3570206517371123,5/9/2015,Yuan Renminbi,false
+99,Brian,Kim,bkim2q@themeforest.net,China,222.5.56.28,3575005406611663,12/9/2014,Yuan Renminbi,false
+100,Gerald,Burton,gburton2r@yellowbook.com,Thailand,218.101.124.48,5100138230708261,9/22/2015,Baht,true
