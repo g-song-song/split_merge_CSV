@@ -1,17 +1,24 @@
 # Split and merge CSV
 
-![concept](images/concept.png)
-
 ## Usage
 
 ### Split
 
-    [python3] ./split.py src nbody [nhead [ntail]]
+![split](images/split.png)
 
-Splits a file `src` and stores into several files `src_N`, where `N` = 0, 1, ...
-Each file will contain `nbody` columns. If `nhead` and `ntail` are specified, a file `src_head` containing the leftmost `nhead` columns and a file `src_tail` containing the rightmost `ntail` columns will be generated.
+    [python3] ./split.py src.csv nbody [nhead [ntail]]
+
+Splits a file `src.csv` and stores into several files `src_N.csv`,
+where `N` = 0, 1, ...,
+some zeros are padded in front of the numbers to sort file easily
+Each file will contain `nbody` columns. If `nhead` and `ntail` are specified,
+a file `src_head.csv` containing the leftmost `nhead` columns
+and a file `src_tail.csv` containing the rightmost `ntail` columns
+will be generated.
 
 ### Merge
+
+![merge](images/merge.png)
 
     [python3] ./merge.py src1 src2 dest
 
