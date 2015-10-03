@@ -20,9 +20,9 @@ will be generated.
 
 ![merge](images/merge.png)
 
-    [python3] ./merge.py src1 src2 dest
+    [python3] ./merge.py src1 ... srcN dest
 
-Merges files `src1` and `src2` and stores into a file `dest`.
+Merges files `src1`, ... and  `srcN` and stores into a file `dest`.
 
 ## Note
 
